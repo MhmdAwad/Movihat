@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528047210898",
+    "firebase_url": "https://movihat-b77e3.firebaseio.com",
+    "project_id": "movihat-b77e3",
+    "storage_bucket": "movihat-b77e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528047210898:android:141fcf5a1a5797fcecc14b",
+        "android_client_info": {
+          "package_name": "com.mhmdawad.movihat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528047210898-ck158khtmknspokia5kquvceogasaloi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhmdawad.movihat",
+            "certificate_hash": "c971fc2744eee7ac70b1ffc699617fab3bc81416"
+          }
+        },
+        {
+          "client_id": "528047210898-7acrvospduggc14tn5olf3pru6n7e0fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDroJ11no2fJR32VOpCcRK4hoIn2JX2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528047210898-7acrvospduggc14tn5olf3pru6n7e0fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
